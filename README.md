@@ -1,16 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=16&duration=1500&pause=100&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=120&lines=01001000+01100101+01101100+01101100+01101111;Wake+up%2C+Neo...;IDENTITY%3A+Sreyank;ROLE%3A+Full Stack Developer;Follow+the+white+rabbit+🐇" alt="Matrix Typing"/>
-</div>
-
-## 📊 The Numbers
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Sreyank-Bose-Git&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00cc33" height="160"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Sreyank-Bose-Git&layout=compact&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33" height="160"/>
-</p>
-
 ## 💾 Language Registry
 
 <p align="center">
