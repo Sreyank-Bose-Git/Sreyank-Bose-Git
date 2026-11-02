@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Sreyank-Bose-Git)
 [![Discord](https://img.shields.io/badge/Discord-Join_My_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/hFMRq3SxG)
-[![Blog](https://img.shields.io/badge/Blog-Explore-FF5722?style=for-the-badge&logo=blogger)](https://sreyank-blog.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-Explore-FF5722?style=for-the-badge&logo=blogger)]([https://sreyank-blog.github.io/](https://sreyank-bose-git.github.io/sreyank-blog.github.io/))
 
 </div>
 
