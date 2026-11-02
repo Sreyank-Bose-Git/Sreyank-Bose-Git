@@ -9,9 +9,9 @@ USERNAME = "Sreyank-Bose-Git"
 TOKEN = os.environ["GITHUB_TOKEN"]
 
 QUERY = """
-query($login: String!, $from: DateTime!, $to: DateTime!) {
+query($login: String!) {
   user(login: $login) {
-    contributionsCollection(from: $from, to: $to) {
+    contributionsCollection {
       commitContributionsByRepository(maxRepositories: 100) {
         repository {
           nameWithOwner
@@ -29,10 +29,8 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 payload = {
     "query": QUERY,
     "variables": {
-        "login": USERNAME,
-        "from": "2008-01-01T00:00:00Z",
-        "to": datetime.now(timezone.utc).isoformat()
-    }
+    "login": USERNAME
+}
 }
 
 request = urllib.request.Request(
