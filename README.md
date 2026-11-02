@@ -98,7 +98,7 @@ If you have any questions or enquiries, feel free to ask in my Discord community
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Sreyank-Bose-Git&icon=9&color=6)
+![](https://komarev.com/ghpvc/?username=Sreyank-Bose-Git&icon=9&color=2)
 
 ## 💰 Support My Work
 
