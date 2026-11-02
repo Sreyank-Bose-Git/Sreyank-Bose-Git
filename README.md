@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:312E81,65:6D28D9,100:00D4FF&height=230&section=header&text=Sreyank%20Bose&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20Tech%20Explorer&descSize=17&descAlignY=58&stroke=00D4FF&strokeWidth=1" />
@@ -183,8 +184,9 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sreyank-Bose-Git&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=BD93F9&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyank-Bose-Git&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Sreyank-Bose-Git&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=BD93F9&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sreyank-Bose-Git&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" />
 
 <br/><br/>
 
@@ -200,19 +202,23 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sreyank-Bose-Git&bg_color=050816&color=00D4FF&line=BD93F9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://ghchart.rshah.org/00D4FF/Sreyank-Bose-Git" alt="GitHub Contribution Calendar" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sreyank-Bose-Git&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+[![GitHub Achievements](https://img.shields.io/badge/View-GitHub_Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreyank-Bose-Git?tab=achievements)
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sreyank-Bose-Git?tab=repositories)
+
+[![Contributions](https://img.shields.io/badge/View-Contribution_History-BD93F9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreyank-Bose-Git?tab=overview)
 
 </div>
 
@@ -230,25 +236,17 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 ---
 
-<!-- ═══════════════════════ RANDOM QUOTE ═══════════════════════ -->
-
-# 🧠 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 <!-- ═══════════════════════ TOP CONTRIBUTED REPOSITORIES ═══════════════════════ -->
 
 # 🔝 Top Contributed Repositories
 
 <div align="center">
 
-<img width="85%" src="https://github-contributor-stats.vercel.app/api?username=Sreyank-Bose-Git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img width="85%" src="https://github-contributor-stats.vercel.app/api?username=Sreyank-Bose-Git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+
+<br/>
+
+[![Explore All Repositories](https://img.shields.io/badge/Explore-All_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sreyank-Bose-Git?tab=repositories)
 
 </div>
 
