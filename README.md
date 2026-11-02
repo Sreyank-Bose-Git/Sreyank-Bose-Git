@@ -19,8 +19,6 @@
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
 # 💫 About Me
 
 <img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -47,8 +45,6 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 ---
 
-<!-- ═══════════════════════ INTERESTS ═══════════════════════ -->
-
 # 🧬 Areas of Interest
 
 <div align="center">
@@ -70,8 +66,6 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 </div>
 
 ---
-
-<!-- ═══════════════════════ SOCIALS ═══════════════════════ -->
 
 # 🌐 Connect With Me
 
@@ -99,8 +93,6 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 </div>
 
 ---
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 # 💻 Technology Arsenal
 
@@ -178,8 +170,6 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -196,8 +186,6 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -208,51 +196,71 @@ I am **Sreyank Bose**, an AI enthusiast and full-stack developer with interests 
 
 ---
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Achievements](https://img.shields.io/badge/View-GitHub_Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreyank-Bose-Git?tab=achievements)
+<a href="https://github.com/Sreyank-Bose-Git?tab=achievements">
+<img src="https://img.shields.io/badge/View-GitHub_Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sreyank-Bose-Git?tab=repositories)
+<a href="https://github.com/Sreyank-Bose-Git?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-[![Contributions](https://img.shields.io/badge/View-Contribution_History-BD93F9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreyank-Bose-Git?tab=overview)
+<a href="https://github.com/Sreyank-Bose-Git?tab=overview">
+<img src="https://img.shields.io/badge/View-Contribution_History-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Sreyank-Bose-Git/Sreyank-Bose-Git/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sreyank-Bose-Git/Sreyank-Bose-Git/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sreyank-Bose-Git/Sreyank-Bose-Git/output/github-snake.svg" />
+  <img width="100%"
+    src="https://raw.githubusercontent.com/Sreyank-Bose-Git/Sreyank-Bose-Git/output/github-snake.svg"
+    alt="GitHub Contribution Snake" />
+</picture>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════ TOP CONTRIBUTED REPOSITORIES ═══════════════════════ -->
 
 # 🔝 Top Contributed Repositories
 
 <div align="center">
 
-<img width="85%" src="https://github-contributor-stats.vercel.app/api?username=Sreyank-Bose-Git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+<img width="100%"
+  src="https://raw.githubusercontent.com/Sreyank-Bose-Git/Sreyank-Bose-Git/output/top-contributed-repos.svg"
+  alt="Top Contributed Repositories" />
 
 <br/>
 
-[![Explore All Repositories](https://img.shields.io/badge/Explore-All_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sreyank-Bose-Git?tab=repositories)
+<a href="https://github.com/Sreyank-Bose-Git?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ SUPPORT ═══════════════════════ -->
+# 🧠 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
 
 # 💰 Support My Work
 
